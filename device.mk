@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2019-2020 The LineageOS Project
+# Copyright (C) 2020 The PixelExperience Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
@@ -12,7 +12,7 @@ $(call inherit-product-if-exists, vendor/xiaomi/violet/violet-vendor.mk)
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-lineage
+    $(LOCAL_PATH)/overlay-pe
 
 # Permissions
 PRODUCT_COPY_FILES += \

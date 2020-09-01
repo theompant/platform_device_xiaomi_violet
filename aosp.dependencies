@@ -15,7 +15,7 @@
     "repository": "vendor_xiaomi_violet",
     "target_path": "vendor/xiaomi/violet",
     "branch":"ten",
-    "remote":"pixel-devices-bitbucket"
+    "remote":"pixel-devices-blobs"
   },
   {
     "repository": "vendor_xiaomi-firmware",
